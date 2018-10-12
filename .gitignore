@@ -1,0 +1,10 @@
+# Eclipse
+.classpath
+.project
+.externalToolBuilders/
+.metadata
+.settings
+*.class
+
+#csudemo
+WebContent/video
